@@ -1,1 +1,1 @@
-عامل: العقدة bot.js
+worker: node bot.js
