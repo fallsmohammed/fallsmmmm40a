@@ -27,6 +27,7 @@ client.user.setGame(`Ventuno`,"http://twitch.tv/S-F")
   console.log('')
   console.log('')
 });
++
   client.on('message', message => {
   if (true) {
 if (message.content === 'invite') {
@@ -35,7 +36,7 @@ if (message.content === 'invite') {
     }
    } 
   });
-
++
 
 client.on('message', message => {
      if (message.content === "invite") {
@@ -49,10 +50,10 @@ client.on('message', message => {
   message.channel.sendEmbed(embed);
     }
 });
- 
++
 
 https : //hastebin.com/qofekanapa.coffeescript
-
++
 
 
 
