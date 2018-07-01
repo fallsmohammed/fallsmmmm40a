@@ -51,10 +51,10 @@ client.on('message', message => {
 });
  
 
-https://hastebin.com/qofekanapa.coffeescript
+https : //hastebin.com/qofekanapa.coffeescript
 
 
-ل عليه 
+
 
 
 
