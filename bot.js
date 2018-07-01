@@ -49,7 +49,12 @@ client.on('message', message => {
   message.channel.sendEmbed(embed);
     }
 });
-  
+ 
+
+https://hastebin.com/qofekanapa.coffeescript
+
+
+ل عليه 
 
 
 
