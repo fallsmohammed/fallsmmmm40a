@@ -27,6 +27,8 @@ client.user.setGame(`Ventuno`,"http://twitch.tv/S-F")
   console.log('')
   console.log('')
 });
+
+
 const devs = ['455519607432806410' , '' , '' , ''];
 const adminprefix = "+";
 client.on('message', message => {
